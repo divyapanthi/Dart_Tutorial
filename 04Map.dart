@@ -1,6 +1,6 @@
 void main() {
   
-  Map<String, double> _courseList = {
+  Map<String, int> _courseList = {
     "C":100,
     "C++":200,
     "Java":1000,
